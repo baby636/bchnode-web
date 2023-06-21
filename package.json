@@ -31,9 +31,9 @@
     "gulp-html-i18n": "^0.16.0",
     "gulp-newer": "^1.4.0",
     "gulp-nunjucks-render": "^2.2.3",
-    "gulp-sass": "^4.1.0",
+    "gulp-sass": "^5.0.0",
     "minimist": "^1.2.5",
-    "node-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
     "pattern.css": "^1.0.0"
   },
   "dependencies": {
